@@ -1,0 +1,22 @@
+{
+  "name": "queryparser",
+  "version": "1.0.0",
+  "description": "Parsing Query String in node.js",
+  "main": "server.js",
+  "keywords": [
+    "url",
+    "parse",
+    "parser",
+    "query"
+  ],
+  "homepage": "https://github.com/Shhb-Coder-1999",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "shahab.shafie",
+  "license": "ISC"
+}
