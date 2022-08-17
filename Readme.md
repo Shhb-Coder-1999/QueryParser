@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --save queryparser
+$ npm i my_query_string_parser
 ```
 
 
